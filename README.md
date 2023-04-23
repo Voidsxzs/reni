@@ -72,6 +72,6 @@ Extract zip
 
 Run install_python.bat if you don't have python installed
 
-Run the builder by double clicking the build.bat file
+Run the builder by double clicking the renicail.exe file
 
 Follow instructions in builder and your exe will be found in the dist folder under the name main.exe
