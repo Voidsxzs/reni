@@ -1,3 +1,5 @@
+how to use in zip
+
 renicail token grabber
 
 features
