@@ -43,8 +43,7 @@
 
 ### Setup
 
-1. 
-2. Extract zip
-3. Install python if you don't have python installed
-4. Run the builder by double clicking the `renicail.exe` file
-5. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
+1. Extract zip
+2. Install python if you don't have python installed
+3. Run the builder by double clicking the `renicail.exe` file
+4. Follow instructions in builder and your exe will be found in the `dist` folder under the name `main.exe`
