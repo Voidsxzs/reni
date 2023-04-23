@@ -1,6 +1,7 @@
 renicail token grabber
 
 features
+
 Discord token info
 Nitro
 Badges
@@ -14,6 +15,7 @@ Browser data
 
 
 browser info
+
 Cookies
 Passwords
 History
@@ -31,4 +33,3 @@ Disk
 Network
 WiFi
 Screenshot
-
