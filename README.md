@@ -70,7 +70,7 @@ Download source code zip
 
 Extract zip
 
-Run install_python.bat if you don't have python installed
+install python if not installed 
 
 Run the builder by double clicking the renicail.exe file
 
